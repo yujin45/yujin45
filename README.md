@@ -15,26 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm [Your Name test]
 
 ## About Me
 I'm a software developer with a passion for creating innovative solutions. I specialize in various languages and technologies.
 
 ## 💻 Technologies & Tools
 - **Languages:** 
-  - ![Java](https://img.shields.io/badge/Java-Expert-orange) 
-  - ![Python](https://img.shields.io/badge/Python-Intermediate-blue) 
-  - ![C](https://img.shields.io/badge/C-Intermediate-blue) 
+  - ![Python](https://img.shields.io/badge/Python-Expert-brightgreen) 
+  - ![Java](https://img.shields.io/badge/Java-Expert-brightgreen) 
   - ![C++](https://img.shields.io/badge/C++-Intermediate-blue) 
   - ![C#](https://img.shields.io/badge/C%23-Intermediate-blue)
+  - ![C](https://img.shields.io/badge/C-Beginner-lightgrey)
+    
 - **Technologies:**
-  - ![Android Studio](https://img.shields.io/badge/Android%20Studio-Expert-green)
+  - ![Android Studio](https://img.shields.io/badge/Android%20Studio-Expert-brightgreen)
+  - ![Colab](https://img.shields.io/badge/Colab-Expert-brightgreen)
+  - ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Expert-brightgreen)
+  - ![OpenCV](https://img.shields.io/badge/OpenCV-Expert-brightgreen)
+  - ![MediaPipe](https://img.shields.io/badge/MediaPipe-Intermediate-blue)
+  - ![Unity](https://img.shields.io/badge/Unity-Intermediate-blue)
+  - ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-Intermediate-blue)
   - ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-blue)
   - ![HTML](https://img.shields.io/badge/HTML-Intermediate-blue)
   - ![CSS3](https://img.shields.io/badge/CSS3-Intermediate-blue)
   - ![JSP](https://img.shields.io/badge/JSP-Intermediate-blue)
-  - ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Intermediate-blue)
-  - ![Colab](https://img.shields.io/badge/Colab-Intermediate-blue)
   - ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-Intermediate-blue)
   - ![Anaconda](https://img.shields.io/badge/Anaconda-Intermediate-blue)
 
