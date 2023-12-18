@@ -42,6 +42,8 @@ I'm a software developer with a passion for creating innovative solutions. I spe
   - ![JSP](https://img.shields.io/badge/JSP-Intermediate-blue)
   - ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-Intermediate-blue)
   - ![Anaconda](https://img.shields.io/badge/Anaconda-Intermediate-blue)
+  - ![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-blue)
+  - ![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-blue)
 
 ## 🌱 Currently Learning
 I'm currently exploring new technologies and enhancing my skills in [Your Current Learning Focus].
