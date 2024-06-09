@@ -1,7 +1,10 @@
-### 안녕하세요! 저는 Yujin입니다 👋
+### 안녕하세요! 저는 정유진입니다 👋
 
 ## 소개
 다양한 프로그래밍 언어와 기술을 활용한 경험이 있으며, 지속적으로 배우고 성장하고 있습니다.
+
+### 🔗 블로그
+- 블로그: [Yujin의 블로그](https://yujinius45.tistory.com/)
 
 ## 💻 Technologies & Tools
 - **Languages:** 
@@ -28,9 +31,10 @@ Java 코딩 테스트, 코틀린, 안드로이드
 4. **[Team5_Network_Modongsa](https://github.com/yujin45/Team5_Network_Modongsa)**: Java, Android, Eclipse
 5. **[wheresMySeoul](https://github.com/yujin45/wheresMySeoul)**: Java, Spring Boot, AWS EC2, RDS(MySQL)
 6. **[Whac-A-Mole-Game](https://github.com/yujin45/Whac-A-Mole-Game)**: Java, Eclipse
+7. **[Graceful-Bronzes](https://github.com/yujin45/Graceful-Bronzes)**: 학습 공동체 1
+8. **[Graceful-Silvers](https://github.com/yujin45/Graceful-Silvers)**: 학습 공동체 2
+9. **[CodingTestStudy](https://github.com/yujin45/CodingTestStudy)**: 코딩 테스트 
 
 
-### 🔗 연락하기
-- 블로그: [Yujin의 블로그](https://yujinius45.tistory.com/)
 
 기술에 대해 논의하거나 프로젝트에 협력하거나 그냥 친근한 대화를 나누고 싶다면 언제든지 연락해주세요! 😊
