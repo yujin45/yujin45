@@ -26,14 +26,15 @@ Java 코딩 테스트, 코틀린, 안드로이드
 
 ### 🌟 주요 프로젝트
 1. **[ASAP](https://github.com/yujin45/ASAP)**: Java, Android
-2. **[mumulbo2023_Public](https://github.com/yujin45/mumulbo2023_Public)**: Java, Android
-3. **[Team3_Orda_Diary](https://github.com/yujin45/Team3_Orda_Diary)**: Java, Android
-4. **[Team5_Network_Modongsa](https://github.com/yujin45/Team5_Network_Modongsa)**: Java, Android, Eclipse
-5. **[wheresMySeoul](https://github.com/yujin45/wheresMySeoul)**: Java, Spring Boot, AWS EC2, RDS(MySQL)
-6. **[Whac-A-Mole-Game](https://github.com/yujin45/Whac-A-Mole-Game)**: Java, Eclipse
-7. **[Graceful-Bronzes](https://github.com/yujin45/Graceful-Bronzes)**: 학습 공동체 1
-8. **[Graceful-Silvers](https://github.com/yujin45/Graceful-Silvers)**: 학습 공동체 2
-9. **[CodingTestStudy](https://github.com/yujin45/CodingTestStudy)**: 코딩 테스트 
+2. **[무물보](https://github.com/yujin45/mumulbo2023_Public)**: Java, Android
+3. **[오르다](https://github.com/yujin45/Team3_Orda_Diary)**: Java, Android
+4. **[모동사](https://github.com/yujin45/Team5_Network_Modongsa)**: Java, Android, Eclipse
+5. **[어서울](https://github.com/yujin45/wheresMySeoul)**: Java, Spring Boot, AWS EC2, RDS(MySQL)
+6. **[두더지 게임](https://github.com/yujin45/Whac-A-Mole-Game)**: Java, Eclipse
+7. **[유리병 흘러가듯](https://github.com/yujin45/MyLetterBack-Flutter)**: Dart, Flutter, Android Strudio
+8. **[우아한 브론즈](https://github.com/yujin45/Graceful-Bronzes)**: 학습 공동체 1
+9. **[우아한 실버](https://github.com/yujin45/Graceful-Silvers)**: 학습 공동체 2
+10. **[CodingTestStudy](https://github.com/yujin45/CodingTestStudy)**: 코딩 테스트 
 
 
 
