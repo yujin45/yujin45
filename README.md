@@ -18,7 +18,6 @@ Java 코딩 테스트, 코틀린, 안드로이드
 
 ### 📈 GitHub 통계
 ![Yujin의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=yujin45&show_icons=true&theme=radical)
-![Yujin의 GitHub 잔디밭](https://ghchart.rshah.org/yujin45)
 
 ### 💻 언어별 랭킹
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujin45&layout=compact&theme=radical)
