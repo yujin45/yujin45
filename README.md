@@ -14,7 +14,7 @@
   - ![Android Studio](https://img.shields.io/badge/Android%20Studio-Expert-brightgreen),![Colab](https://img.shields.io/badge/Colab-Expert-brightgreen), ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Expert-brightgreen), ![OpenCV](https://img.shields.io/badge/OpenCV-Expert-brightgreen),![MediaPipe](https://img.shields.io/badge/MediaPipe-Intermediate-blue), ![Unity](https://img.shields.io/badge/Unity-Intermediate-blue),![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-Intermediate-blue),![MySQL](https://img.shields.io/badge/MySQL-Intermediate-blue), ![HTML](https://img.shields.io/badge/HTML-Intermediate-blue), ![CSS3](https://img.shields.io/badge/CSS3-Intermediate-blue), ![JSP](https://img.shields.io/badge/JSP-Intermediate-blue) ,![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-Intermediate-blue), ![Anaconda](https://img.shields.io/badge/Anaconda-Intermediate-blue), ![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-blue),![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-blue), ![Spring](https://img.shields.io/badge/Spring-Beginner-lightgrey), ![AWS](https://img.shields.io/badge/AWS-Intermediate-blue), ![Adobe](https://img.shields.io/badge/Adobe-Intermediate-blue)
 
 ## 📚 현재 학습 중
-Java 코딩 테스트, 코틀린, 안드로이드
+코틀린
 
 ### 📈 GitHub 통계
 ![Yujin의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=yujin45&show_icons=true&theme=radical)
