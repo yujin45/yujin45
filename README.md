@@ -7,8 +7,14 @@
 - 블로그: [Yujin의 블로그](https://yujinius45.tistory.com/)
 
 ## 💻 Technologies & Tools
+
+**Proficiency Levels:**
+- **Beginner**: Used once or twice
+- **Intermediate**: Used several times
+- **Expert**: Used frequently and proficiently
+
 - **Languages:** 
-  - ![Python](https://img.shields.io/badge/Python-Expert-brightgreen) , ![Java](https://img.shields.io/badge/Java-Expert-brightgreen) , ![C++](https://img.shields.io/badge/C++-Intermediate-blue), ![C#](https://img.shields.io/badge/C%23-Intermediate-blue), ![C](https://img.shields.io/badge/C-Beginner-lightgrey)
+  - ![Python](https://img.shields.io/badge/Python-Expert-brightgreen) , ![Java](https://img.shields.io/badge/Java-Expert-brightgreen) , ![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-blue) , ![C++](https://img.shields.io/badge/C++-Intermediate-blue), ![C#](https://img.shields.io/badge/C%23-Intermediate-blue), ![C](https://img.shields.io/badge/C-Beginner-lightgrey)
     
 - **Technologies:**
   - ![Android Studio](https://img.shields.io/badge/Android%20Studio-Expert-brightgreen),![Colab](https://img.shields.io/badge/Colab-Expert-brightgreen), ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Expert-brightgreen), ![OpenCV](https://img.shields.io/badge/OpenCV-Expert-brightgreen),![MediaPipe](https://img.shields.io/badge/MediaPipe-Intermediate-blue), ![Unity](https://img.shields.io/badge/Unity-Intermediate-blue),![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-Intermediate-blue),![MySQL](https://img.shields.io/badge/MySQL-Intermediate-blue), ![HTML](https://img.shields.io/badge/HTML-Intermediate-blue), ![CSS3](https://img.shields.io/badge/CSS3-Intermediate-blue), ![JSP](https://img.shields.io/badge/JSP-Intermediate-blue) ,![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-Intermediate-blue), ![Anaconda](https://img.shields.io/badge/Anaconda-Intermediate-blue), ![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-blue),![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-blue), ![Spring](https://img.shields.io/badge/Spring-Beginner-lightgrey), ![AWS](https://img.shields.io/badge/AWS-Intermediate-blue), ![Adobe](https://img.shields.io/badge/Adobe-Intermediate-blue)
