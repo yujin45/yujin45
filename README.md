@@ -45,9 +45,6 @@
 7. [**두더지 게임**](https://github.com/yujin45/Whac-A-Mole-Game): Java, Eclipse
     - 제한 시간 안에 많은 두더지를 잡아봅시다, 두더지 게임!
 8. [**유리병 흘러가듯**](https://github.com/yujin45/MyLetterBack-Flutter): Dart, Flutter, Android Strudio
-9. [**우아한 브론즈**](https://github.com/yujin45/Graceful-Bronzes): 학습 공동체 1
-10. [**우아한 실버**](https://github.com/yujin45/Graceful-Silvers): 학습 공동체 2
-11. [**CodingTestStudy**](https://github.com/yujin45/CodingTestStudy): 코딩 테스트
 
 
 <br>
