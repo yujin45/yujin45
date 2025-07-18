@@ -2,8 +2,6 @@
 
 다양한 프로그래밍 언어와 기술을 활용한 경험이 있으며, 지속적으로 배우고 성장하고 있습니다.
 
-###  [🔗 블로그 링크](https://yujinius45.tistory.com/)
-
 ## 💻 Technologies & Tools
 
 ### ⭐ 자주 사용한 기술
